@@ -1,0 +1,7 @@
+selenium
+deep_translator
+requests
+twocaptcha
+Image
+beautifulsoup4
+websockets
